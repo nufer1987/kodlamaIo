@@ -1,0 +1,2 @@
+# kodlamaIo
+advenced project
